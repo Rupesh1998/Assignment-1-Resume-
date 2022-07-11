@@ -1,0 +1,53 @@
+.outline{
+    margin: auto;
+    width: 800px;
+    height: 1150px;
+    padding: 10px;
+    box-shadow: 5px 5px 20px rgb(129, 123, 123);
+    border: 2px solid black;
+    /* background-image: linear-gradient(rgb(208, 237, 208),rgb(241, 247, 248)); */
+}
+#name{
+    margin-top: 10px;
+    margin-right: 100px;
+    width: 400px;
+    padding-right:100px;
+}
+.link{
+   margin-left: 5px;
+   vertical-align: top;
+}
+#youtubeicon{
+    margin-left: 5px;
+    color: red;
+}
+#youtube{
+    margin-left: 10px;
+    color: rgb(35, 6, 254);
+}
+.image{
+    float: right;
+}
+.education{
+    margin-top: -10px;
+    margin-left: -20px;
+}
+.year{
+    float: right;
+}
+.percentage-1{
+    margin-left: 397px;
+}
+.percentage-2{
+    margin-left: 350px;
+}
+.percentage-3{
+    margin-left: 400px;
+}
+.project{
+    margin-left: 25px;
+}
+.sign{
+    margin-left: 680px;
+    padding-bottom: 50px;
+}
